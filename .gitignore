@@ -1,0 +1,7 @@
+_Store
+.idea
+.editorconfig
+node_modules
+dist/
+yarn-error.log
+
